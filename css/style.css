@@ -44,6 +44,7 @@ p {
     - and lastly set a rule on overflowing elements inside to hidden.
 
 */
+
 section {
     background-color: #fdf6f0;
 }
@@ -97,24 +98,6 @@ i {
         border-radius: 100%;
         padding: 10px;
 }
-
-}
-
-/* 
-.content-2 {
-    display: flex;
-    width: auto;
-    flex: auto;
-    /* flex-wrap: wrap; */
-}
-
-.content {
-    display: flex;
-    /* flex-wrap: wrap; */
-} */
-
-
-
 
 /* 
     4.  Collaborative Task for Assessment
